@@ -1,0 +1,498 @@
+[
+    {
+        "_id": "Single-player",
+        "count": 2587
+    },
+    {
+        "_id": "Family Sharing",
+        "count": 2410
+    },
+    {
+        "_id": "Indie",
+        "count": 1656
+    },
+    {
+        "_id": "Steam Achievements",
+        "count": 1606
+    },
+    {
+        "_id": "Steam Trading Cards",
+        "count": 1356
+    },
+    {
+        "_id": "Action",
+        "count": 1279
+    },
+    {
+        "_id": "Steam Cloud",
+        "count": 1063
+    },
+    {
+        "_id": "Multi-player",
+        "count": 989
+    },
+    {
+        "_id": "Adventure",
+        "count": 882
+    },
+    {
+        "_id": "Strategy",
+        "count": 725
+    },
+    {
+        "_id": "Full controller support",
+        "count": 690
+    },
+    {
+        "_id": "Casual",
+        "count": 645
+    },
+    {
+        "_id": "Partial Controller Support",
+        "count": 574
+    },
+    {
+        "_id": "RPG",
+        "count": 569
+    },
+    {
+        "_id": "Steam Leaderboards",
+        "count": 569
+    },
+    {
+        "_id": "Simulation",
+        "count": 477
+    },
+    {
+        "_id": "Co-op",
+        "count": 417
+    },
+    {
+        "_id": "Remote Play Together",
+        "count": 303
+    },
+    {
+        "_id": "Shared/Split Screen",
+        "count": 263
+    },
+    {
+        "_id": "Stats",
+        "count": 257
+    },
+    {
+        "_id": "Remote Play on TV",
+        "count": 252
+    },
+    {
+        "_id": "PvP",
+        "count": 244
+    },
+    {
+        "_id": "Free to Play",
+        "count": 240
+    },
+    {
+        "_id": "Steam Workshop",
+        "count": 239
+    },
+    {
+        "_id": "Includes level editor",
+        "count": 233
+    },
+    {
+        "_id": "Online PvP",
+        "count": 210
+    },
+    {
+        "_id": "Cross-Platform Multiplayer",
+        "count": 199
+    },
+    {
+        "_id": "Online Co-op",
+        "count": 164
+    },
+    {
+        "_id": "Downloadable Content",
+        "count": 164
+    },
+    {
+        "_id": "Remote Play on Tablet",
+        "count": 134
+    },
+    {
+        "_id": "Racing",
+        "count": 123
+    },
+    {
+        "_id": "Captions available",
+        "count": 120
+    },
+    {
+        "_id": "Remote Play on Phone",
+        "count": 110
+    },
+    {
+        "_id": "Massively Multiplayer",
+        "count": 95
+    },
+    {
+        "_id": "Sports",
+        "count": 94
+    },
+    {
+        "_id": "Shared/Split Screen Co-op",
+        "count": 88
+    },
+    {
+        "_id": "Shared/Split Screen PvP",
+        "count": 85
+    },
+    {
+        "_id": "MMO",
+        "count": 77
+    },
+    {
+        "_id": "In-App Purchases",
+        "count": 58
+    },
+    {
+        "_id": "Valve Anti-Cheat enabled",
+        "count": 53
+    },
+    {
+        "_id": "Early Access",
+        "count": 51
+    },
+    {
+        "_id": "LAN PvP",
+        "count": 45
+    },
+    {
+        "_id": "LAN Co-op",
+        "count": 43
+    },
+    {
+        "_id": "Commentary available",
+        "count": 32
+    },
+    {
+        "_id": "VR Support",
+        "count": 31
+    },
+    {
+        "_id": "VR Supported",
+        "count": 30
+    },
+    {
+        "_id": "Utilities",
+        "count": 23
+    },
+    {
+        "_id": "Includes Source SDK",
+        "count": 17
+    },
+    {
+        "_id": "Tracked Controller Support",
+        "count": 14
+    },
+    {
+        "_id": "Design & Illustration",
+        "count": 12
+    },
+    {
+        "_id": "Animation & Modeling",
+        "count": 12
+    },
+    {
+        "_id": "Education",
+        "count": 10
+    },
+    {
+        "_id": "Violent",
+        "count": 6
+    },
+    {
+        "_id": "Web Publishing",
+        "count": 6
+    },
+    {
+        "_id": "Software Training",
+        "count": 6
+    },
+    {
+        "_id": "Mods",
+        "count": 5
+    },
+    {
+        "_id": "Game Development",
+        "count": 5
+    },
+    {
+        "_id": "Video Production",
+        "count": 5
+    },
+    {
+        "_id": "Steam Turn Notifications",
+        "count": 5
+    },
+    {
+        "_id": "Game demo",
+        "count": 5
+    },
+    {
+        "_id": "Mods (require HL2)",
+        "count": 4
+    },
+    {
+        "_id": "Additional High-Quality Audio",
+        "count": 4
+    },
+    {
+        "_id": "VR Only",
+        "count": 3
+    },
+    {
+        "_id": "Native Steam Controller Support",
+        "count": 3
+    },
+    {
+        "_id": "Movie",
+        "count": 2
+    },
+    {
+        "_id": "Audio Production",
+        "count": 2
+    },
+    {
+        "_id": "HDR available",
+        "count": 1
+    },
+    {
+        "_id": "Photo Editing",
+        "count": 1
+    },
+    {
+        "_id": "Gore",
+        "count": 1
+    },
+    {
+        "_id": "Sexual Content",
+        "count": 1
+    },
+    {
+        "_id": "Aksiyon",
+        "count": 1
+    },
+    {
+        "_id": "Yar\u0131\u015f",
+        "count": 1
+    },
+    {
+        "_id": "Sim\u00fclasyon",
+        "count": 1
+    },
+    {
+        "_id": "Strateji",
+        "count": 1
+    },
+    {
+        "_id": "Tek Oyunculu",
+        "count": 1
+    },
+    {
+        "_id": "\u00c7ok Oyunculu",
+        "count": 1
+    },
+    {
+        "_id": "\u00c7evrimi\u00e7i PvP",
+        "count": 1
+    },
+    {
+        "_id": "\u0130ndirilebilir \u0130\u00e7erik",
+        "count": 1
+    },
+    {
+        "_id": "Steam Ba\u015far\u0131mlar\u0131",
+        "count": 1
+    },
+    {
+        "_id": "Steam Koleksiyon Kartlar\u0131",
+        "count": 1
+    },
+    {
+        "_id": "Altyaz\u0131 Deste\u011fi",
+        "count": 1
+    },
+    {
+        "_id": "Steam At\u00f6lyesi",
+        "count": 1
+    },
+    {
+        "_id": "K\u0131smi Kumanda Deste\u011fi",
+        "count": 1
+    },
+    {
+        "_id": "Steam S\u0131ralama Listeleri",
+        "count": 1
+    },
+    {
+        "_id": "B\u00f6l\u00fcm d\u00fczenleyicisi i\u00e7erir",
+        "count": 1
+    },
+    {
+        "_id": "Simuleringar",
+        "count": 1
+    },
+    {
+        "_id": "Strategi",
+        "count": 1
+    },
+    {
+        "_id": "En spelare",
+        "count": 1
+    },
+    {
+        "_id": "Flera spelare",
+        "count": 1
+    },
+    {
+        "_id": "LAN-PvP",
+        "count": 1
+    },
+    {
+        "_id": "Samarbete",
+        "count": 1
+    },
+    {
+        "_id": "LAN med samarbete",
+        "count": 1
+    },
+    {
+        "_id": "Nerladdingsbart inneh\u00e5ll",
+        "count": 1
+    },
+    {
+        "_id": "Undertext tillg\u00e4nglig",
+        "count": 1
+    },
+    {
+        "_id": "Delvist st\u00f6d f\u00f6r kontroll",
+        "count": 1
+    },
+    {
+        "_id": "Niv\u00e5redigerare ing\u00e5r",
+        "count": 1
+    },
+    {
+        "_id": "Nudity",
+        "count": 1
+    },
+    {
+        "_id": "A\u00e7\u00e3o",
+        "count": 1
+    },
+    {
+        "_id": "Um jogador",
+        "count": 1
+    },
+    {
+        "_id": "Multijogador",
+        "count": 1
+    },
+    {
+        "_id": "JxJ",
+        "count": 1
+    },
+    {
+        "_id": "JxJ on-line",
+        "count": 1
+    },
+    {
+        "_id": "Cooperativo",
+        "count": 1
+    },
+    {
+        "_id": "Cooperativo on-line",
+        "count": 1
+    },
+    {
+        "_id": "Conquistas Steam",
+        "count": 1
+    },
+    {
+        "_id": "Compat. total com controle",
+        "count": 1
+    },
+    {
+        "_id": "Cartas Colecion\u00e1veis Steam",
+        "count": 1
+    },
+    {
+        "_id": "Oficina Steam",
+        "count": 1
+    },
+    {
+        "_id": "Compras em aplicativo",
+        "count": 1
+    },
+    {
+        "_id": "Usa Valve Antitrapa\u00e7a",
+        "count": 1
+    },
+    {
+        "_id": "Inclui editor de n\u00edveis",
+        "count": 1
+    },
+    {
+        "_id": "Remote Play no tablet",
+        "count": 1
+    },
+    {
+        "_id": "Remote Play na TV",
+        "count": 1
+    },
+    {
+        "_id": "Compartilhamento de biblioteca",
+        "count": 1
+    },
+    {
+        "_id": "SteamVR Collectibles",
+        "count": 1
+    },
+    {
+        "_id": "Aventure",
+        "count": 1
+    },
+    {
+        "_id": "Ind\u00e9pendant",
+        "count": 1
+    },
+    {
+        "_id": "Strat\u00e9gie",
+        "count": 1
+    },
+    {
+        "_id": "Solo",
+        "count": 1
+    },
+    {
+        "_id": "Succ\u00e8s Steam",
+        "count": 1
+    },
+    {
+        "_id": "Compat. contr\u00f4leurs compl\u00e8te",
+        "count": 1
+    },
+    {
+        "_id": "Cartes \u00e0 \u00e9changer Steam",
+        "count": 1
+    },
+    {
+        "_id": "Remote Play sur t\u00e9l\u00e9vision",
+        "count": 1
+    },
+    {
+        "_id": "Partage familial",
+        "count": 1
+    }
+]
